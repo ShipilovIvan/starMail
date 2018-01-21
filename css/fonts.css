@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "PFRegalDisplayPro-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PFRegalDisplayPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/PFRegalDisplayPro-Regular.woff") format("woff"), url("../fonts/PFRegalDisplayPro-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PFRegalDisplayPro-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PFRegalDisplayPro-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/PFRegalDisplayPro-Bold.woff") format("woff"), url("../fonts/PFRegalDisplayPro-Bold.ttf") format("truetype");
+}
